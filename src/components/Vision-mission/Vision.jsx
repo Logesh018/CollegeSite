@@ -1,5 +1,5 @@
 import React from 'react';
-import './vision.css'
+import './Vision.css'
 import vision_icon from "../../assets/vision_icon.png"
 import mission_icon from "../../assets/mission_icon.png"
 
