@@ -9,6 +9,7 @@ import Testimonials from './components/Testimonials/Testimonials'
 import Contact from './components/Contact/Contact'
 import Footer from './components/Footer/Footer'
 import Vision from './components/Vision-mission/Vision'
+import Student from './components/Student/Student'
 
 const App = () => {
   return (
@@ -18,6 +19,8 @@ const App = () => {
       <div className="container">
         <Title subTitle="Our PROGRAM" title="What We Offer" /> 
         <Programs />
+         <Title subTitle="If you are a Student" title="Enter your Reg.No here" /> 
+        <Student />
         <About />
         <Title subTitle="Gallery" title="Campus Photos" /> 
         <Campus />
