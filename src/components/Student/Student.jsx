@@ -76,7 +76,7 @@ const Student = () => {
 
             {student && (
               <div className="student-details">
-                <h5>St. Peter's college of Engineering & Technology</h5>
+                <h5>St. Peter's Deemed University</h5>
                 <img src={student.image} alt={student.name} className="student-image" />
                 <h4>Studnet Info:</h4>
                 <p className="student-name"><b>Name : </b> {student.name}</p>
