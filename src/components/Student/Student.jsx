@@ -17,12 +17,12 @@ const dummyDatabase = {
     image: "https://via.placeholder.com/150"
   },
   "13UEN609": {
-    name: "Gobalakrishnan S",
+    name: "Gopalakrishnan S",
     department: "BA English literature",
     deptNo: "13UEN609",
     adhar: 563765921777,
     batch: "2013 to 2016",
-    dob: "1990-08-20",
+    dob: "19-12-1993",
     image: user_5
   }
 };
